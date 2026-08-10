@@ -1,0 +1,14 @@
+# Configuration for git attributes
+**/*.py linguist-detectable
+public/*.html linguist-vendored
+*.yml linguist-detectable=false
+
+*.bat text eol=crlf
+node_modules/* linguist-vendored
+*.sh text eol=lf
+
+dist/* linguist-vendored
+*.svg text
+* text=auto
+*.py linguist-detectable
+# eof 51731f36
