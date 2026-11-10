@@ -1,0 +1,5 @@
+env/
+.coverage
+venv/
+*.py[cod]
+htmlcov/
